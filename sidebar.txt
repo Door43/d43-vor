@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vor:home|Door43 (vor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vor|d43-vor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vor/archive/master.zip|d43-vor.zip]]
+
+**Recent Changes**
+{{changes>ns = vor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vor|Ethnologue data]]
+
